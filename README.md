@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bocian19
-- 👀 I’m interested in remote work in Python/Django
-- 🌱 I’m currently learning Django Rest Framework
+- 👀 I’m interested in remote work in Python/Django od PHP
+- 🌱 I’m currently learning PHP language
 - 💞️ I’m looking to collaborate on interesting projects where I could use my skills and learn new things.
 - 📫 How to reach me: boclukasz@gmail.com
 
